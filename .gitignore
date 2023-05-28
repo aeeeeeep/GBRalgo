@@ -1,0 +1,10 @@
+/.idea
+*.un~
+.~*
+*.PTH
+*.pth
+*.bin
+*.BIN
+/model
+/wandb
+/__*
